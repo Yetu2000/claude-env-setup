@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.history/
+.vscode/
+.idea/
+
+# Local archives & runtime artifacts
+*.zip
+*.log
+
+# Local social media drafts
+twitter-article.md
+twitter-cover*.jpg
